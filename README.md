@@ -1,6 +1,8 @@
 ## go-systemd
 
 - this application runs a binary of another go application as a systemd process
+- in this repo we have a binary `main` which has a urlshortner code
+- the `main` binary will be used to run the systemd process
 
 
 ### service file
